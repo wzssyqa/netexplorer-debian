@@ -1,0 +1,17 @@
+Source: netexplorer
+Section: net
+Priority: optional
+Maintainer: YunQiang Su <wzssyqa@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), quilt (>= 0.46-7~), libgtkmm-2.4-dev
+Standards-Version: 3.8.4
+Vcs-git: git://github.com/wzssyqa/netexplorer-debian.git
+Vcs-Browser: https://wzssyqa@github.com/wzssyqa/netexplorer-debian.git
+Homepage: http://code.google.com/p/ns-3-shop/
+
+Package: netexplorer
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Gnome/Gtk Network animation tool
+ Network animation tool for ns3 on gtk platform.
+ .
+ At this moment only nam model (NetAnim) is supported.

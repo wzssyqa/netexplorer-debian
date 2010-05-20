@@ -1,0 +1,27 @@
+This work was packaged for Debian by:
+
+    YunQiang Su <wzssyqa@gmail.com> on Thu, 20 May 2010 16:27:27 +0800
+
+It was downloaded from http://code.google.com/p/ns-3-shop/downloads/list
+
+Upstream Author(s):
+
+    Andrey Churin <aachurin@gmail.com>
+
+Copyright:
+
+    Copyright (c) 2010 Andrey Churin
+
+License:
+
+    GNU General Public License version 2
+    On debian system ,you can see it at /usr/share/common-licenses/GPL-2
+
+The Debian packaging is:
+
+    Copyright (C) 2010 YunQiang Su <wzssyqa@gmail.com>
+
+
+and is licensed under the GPL version 3, 
+see `/usr/share/common-licenses/GPL-3'.
+
