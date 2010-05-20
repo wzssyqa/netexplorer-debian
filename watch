@@ -1,5 +1,6 @@
 version=3
 
+http://code.google.com/p/autokey/downloads/list \
+http://autokey.googlecode.com/files/autokey_(.+)\.tar\.gz 
 
-http://ns-3-shop.googlecode.com/files/NetExplorer-(.*)\.tar\.gz
 
