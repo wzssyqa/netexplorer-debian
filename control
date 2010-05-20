@@ -2,7 +2,7 @@ Source: netexplorer
 Section: net
 Priority: optional
 Maintainer: YunQiang Su <wzssyqa@gmail.com>
-Build-Depends: debhelper (>= 7.0.50~), quilt (>= 0.46-7~), libgtkmm-2.4-dev
+Build-Depends: debhelper (>= 7.0.50~), quilt (>= 0.46-7~), libgtkmm-2.4-dev, python
 Standards-Version: 3.8.4
 Vcs-git: git://github.com/wzssyqa/netexplorer-debian.git
 Vcs-Browser: https://wzssyqa@github.com/wzssyqa/netexplorer-debian.git

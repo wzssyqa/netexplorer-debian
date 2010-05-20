@@ -1,0 +1,10 @@
+Index: netexplorer-1.1a/wscript
+===================================================================
+--- netexplorer-1.1a.orig/wscript	2010-05-20 20:03:41.235080740 +0800
++++ netexplorer-1.1a/wscript	2010-05-20 20:04:21.695036055 +0800
+@@ -1,3 +1,5 @@
++from __future__ import with_statement
++
+ top = '.'
+ out = 'build'
+ 
